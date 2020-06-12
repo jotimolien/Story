@@ -1,0 +1,2 @@
+This is chapter 2.
+Adding some client stuff to chapter 2.
